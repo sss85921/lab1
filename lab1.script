@@ -1,0 +1,14 @@
+Script started on 2016年03月15日 (週二) 00時11分15秒
+]0;F74040018@2015cpp: ~F74040018@2015cpp:~$ who,[Ka,[Kmi;ped[K[Kwd
+F74040018
+/home/F74040018
+]0;F74040018@2015cpp: ~F74040018@2015cpp:~$ git config-[K -1[Kl
+]0;F74040018@2015cpp: ~F74040018@2015cpp:~$ git clone hy[Kttps://github.c om/<>[C[K[Ksss85921/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 4, done.[K
+remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
+]0;F74040018@2015cpp: ~F74040018@2015cpp:~$ exit
+
+Script done on 2016年03月15日 (週二) 00時12分52秒
